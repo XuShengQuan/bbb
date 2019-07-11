@@ -1,0 +1,294 @@
+.gd{
+	position: fixed;
+	bottom: 0px;
+	background-color: rgba(0,0,0,0.6);
+	width: 100%;
+	height: 70px;
+	color: white;
+	font-size: 15px;
+	
+}
+.gd1{
+	float: left;
+	margin-left: 510px;
+	
+}
+.gd3{
+	float: left;
+}
+.gd4{
+	float: left;
+	margin-top: 25px;
+}
+.her1{
+	background: #323232;
+	height: 30px;
+	width: 100%;
+}
+
+.her2{
+	width: 100%;
+	margin:0 auto;
+	background: url(../img/tr_1.jpg) no-repeat;
+	height: 500px;
+	position: relative;
+}
+.her3 img{
+	padding-top: 5px;
+	width: 50%;
+	height: 20px;
+}
+.her3{
+	float: left;
+	margin-left: 20px;
+}
+.her4{
+
+	margin-left: -60px;
+}
+.her4 ul li{
+	float: left;
+	color: #c0c0c0;
+	font-size: 14px;
+	line-height: 30px;
+	padding-left: 40px;
+}
+.her4 ul a li:hover{
+	color: #10b041;
+}
+.her5 span{
+	color: #c0c0c0;
+	font-size: 14px;
+	padding-left: 30px;
+	line-height: 30px;
+}
+.her5 span:hover{
+	color: #10b041;
+	text-decoration: none;
+}
+.her2_1{
+	color: white;
+	font-size:55px;
+	font-weight: bold;
+	position: absolute;
+	bottom: 250px;
+	left: 820px;
+}
+.her2_2{
+	position: absolute;
+	bottom:150px;
+	left: 600px;
+}
+.inp{
+	width: 620px;
+	height: 60px;
+	font-size:18px;
+	text-indent: 1.5em;
+	font-family: 宋体;
+}
+.her2_3{
+	position: absolute;
+	bottom:150px;
+	left: 1224px;
+}
+.fain2 ul li:hover{
+	color: black;
+}
+.fain2 ul li{
+	float: left;
+}
+.fain2{
+	float: left;
+	width: 980px;
+}
+.bat{
+	background: #28b76c;
+	border-color:#28b76c ;
+	color: white;
+	font-size:25px;
+	width: 150px;
+	height: 64px;
+}
+.her2_4{
+	position: absolute;
+	bottom:100px;
+	left: 1230px;
+	color: white;
+}
+.her2_4:hover{
+	text-decoration: underline;
+}
+.fain{
+	width: 100%;
+}
+.fain1{
+	margin: 0 auto;
+	width: 982px;
+}
+.fain2{
+	float:left;
+	margin-top: 30px;
+}
+.fain2 ul li{
+	float:left;
+	color:#929292 ;
+	font-size: 18px;
+	margin-left: 50px;
+	padding-left: 10px;
+}
+.fain3{
+	float:left;
+	margin-top: 40px;
+}
+.fain3_1 span:hover{
+	color: #21bf6a;
+}
+.fain3_1{
+	float:left;
+	margin-top: 10px;
+}
+.fain3_1 span{
+	font-size: 13px;
+	line-height: 25px;
+	padding-left: 10px;
+}
+.dw_6{
+	display: flex;
+	justify-content: center;
+    width: 100%;
+	text-align: center;	
+	text-decoration: none;
+}
+.dw_6_1{
+	display: flex;
+	justify-content: center;
+    margin-top: 30px;
+    line-height: 50px;
+	border: solid 1px #2fba71;
+	border-radius: 5px;
+	width: 220px;
+	height: 50px;
+	font-size: 20px;
+	color:#2fba71;
+}
+.dw_6_1:hover{
+	background:#2fba71;
+	color: white;
+}
+.tem1{
+	float:left;
+	width: 982px;
+	text-align: center;
+	margin-top: 65px;
+	font-size: 25px;
+}
+.tem2{
+	float: left;
+	margin-top: 20px;
+	width: 982px;
+}
+.tem2 ul li{
+	float: left;
+	
+	
+
+}
+.tem2_1{
+	
+	margin-left: 55px;
+	border: solid 1px #21bf6a;
+	border-radius:50% ;
+	background: #21bf6a ;
+	text-align: center;
+	line-height: 40px;
+	width: 40px;
+	height: 40px;
+	color: white;
+}
+.tem2_2{
+	margin-left: 35px;
+	border: solid 1px white;
+	border-radius:50% ;
+	background: white;
+	text-align: center;
+	line-height: 40px;
+	width: 40px;
+	height: 40px;
+	color:#ad9892;
+}
+.tem2_2:hover{
+	border: solid 1px #21bf6a;
+	border-radius:50% ;
+	background: #21bf6a ;
+	text-align: center;
+	line-height: 40px;
+	width: 40px;
+	height: 40px;
+	color: white;
+}
+.tem3{
+	float: left;
+	margin-top: 10px;
+	width: 200px;
+	margin-left: 120px;
+}
+.tem3 ul li{
+	padding-top:10px ;
+	font-size: 14px;
+}
+.last5{
+	float:left;
+	width: 100%;
+	margin-top: 50px;
+	background: #323232;
+	height: 110px;
+}
+.last6{
+	margin: 0 auto;
+	width: 980px;
+}
+.last7{
+	float:left;
+	width: 980px;
+	margin-left: 10px;
+	margin-top: 25px;
+}
+.last7 span{
+	color: #c0c0c0;
+	font-size: 16px;
+}
+.last8{
+	float:left;
+	text-indent: 20px;
+	color: #c0c0c0;
+	font-size: 1px;
+	width: 980px;
+	height: 55px;
+	line-height: 55px;
+}
+.dh1 div img{
+	transition: all 1s ease-in-out;
+}
+.dh1 div img:hover{
+	transform:scale(0.9) ;
+}
+.dh2 span{
+	transition: all 1s ease-in-out;
+}
+.dh2 span:hover{
+	transform:translate(0px,10px);
+}
+.tem3 ul li{
+	cursor: pointer;
+}
+.lastt:hover{
+	color: #28b76c;
+	cursor: pointer;
+}
+.lastt{
+	margin-left: 100px;
+	color:#ad9892;
+	margin-top: 40px;
+	float: left;
+	 width: 982px;
+}
